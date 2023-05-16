@@ -7,14 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> {{$name}} </h1>
-
-    @php
-      $arr = [1,2,3,4,5];
-      print_r($arr);
-    @endphp
-    @foreach($arr as $i)
-        <h2>{{$i}}</h2>
-    @endforeach
+    
 </body>
 </html>

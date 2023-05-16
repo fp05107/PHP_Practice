@@ -1,0 +1,7 @@
+@include('layout.header')
+
+<div>
+    
+</div>
+
+@include('layout.footer')
